@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stddef.h": "c",
+        "stdlib.h": "c",
+        "unistd.h": "c",
+        "signal.h": "c",
+        "in.h": "c",
+        "types.h": "c",
+        "assert.h": "c",
+        "string.h": "c",
+        "udp_tcp.h": "c",
+        "yoh_color.h": "c"
+    }
+}
